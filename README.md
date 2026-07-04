@@ -1,16 +1,37 @@
-## Hi there 👋
+# Coder AD
 
-<!--
-**coderaddev/coderaddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
 
-Here are some ideas to get you started:
+I enjoy understanding how systems work,
+building useful software,
+and sharing what I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- Software Engineering
+- Linux
+- Cybersecurity
+- Artificial Intelligence
+- Cloud Computing
+- Open Source
+
+---
+
+## Currently Learning
+
+- Operating Systems
+- Reverse Engineering
+- System Architecture
+- Kubernetes
+
+---
+
+## Philosophy
+
+I prefer understanding fundamentals before frameworks.
+
+I enjoy exploring how technologies work internally instead of simply using them.
+
+My goal is to build software that is useful, maintainable, and built with purpose.
